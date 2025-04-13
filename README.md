@@ -1,6 +1,6 @@
 # 🌍 Carbon Credit Coin (CCC)
 
-![Carbon Credit Coin Logo](./assets/logo.png)
+![Carbon Credit Coin Logo](https://raw.githubusercontent.com/climchg/creditcoin/main/256_logo.png)
 
 **Carbon Credit Coin (CCC)** is a climate-positive Ethereum-based token developed by the [Climate Change Institute](https://climatechangeinstitute.net). Each CCC represents **1 gram of verified CO₂ offset** from UN-certified projects.
 
